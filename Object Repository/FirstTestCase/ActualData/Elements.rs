@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Elements</name>
+   <tag></tag>
+   <elementGuidId>2b2ce11c-e18c-421a-bde6-3e66c1ea8fdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h5[contains(text(),'Elements')]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>3b577295-71b1-435b-b89e-9cb685ec29fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

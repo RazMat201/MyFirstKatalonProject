@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WrongEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39bcc2fe-b03e-4cc5-ae8e-60d79adbd0c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WrongNameField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>814d17be-725d-402a-b2bd-e3dd1ff28ded</testCaseGuid>
+</TestCaseEntity>
